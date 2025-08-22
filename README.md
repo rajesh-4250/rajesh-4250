@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kunchala Rajesh
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79D&width=800&lines=💡+Python+Developer+|+Data+Analyst+|+Aspiring+ML+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79D&width=800&lines=+Python+Developer+|+Data+Analyst+|+Aspiring+ML+Engineer)
 
 ---
 
